@@ -18,7 +18,7 @@ function CalcularVotos(){
 
   return (
     <div className='Votar'>
-      <h2>Eleições 2026</h2>
+      <h2>Eleições!!</h2>
       <button onClick={CalcularVotos}>Digite sua Idade</button>
     {Total}
     </div>
